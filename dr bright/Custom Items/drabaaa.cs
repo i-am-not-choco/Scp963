@@ -32,20 +32,6 @@ namespace dr_bright.Custom_Items
         {
             Limit = Class1.Instance.Config.limit,
             RoomSpawnPoints =  Class1.Instance.Config.SpawnPoints
-           
-            //DynamicSpawnPoints =
-         //   [
-            //    new DynamicSpawnPoint
-          //      {
-         //           Chance = 100,
-           //         Location = SpawnLocationType.InsideEscapePrimary
-            //    },
-               
-                
-           // ]
-            
-
-
         };
 
 
